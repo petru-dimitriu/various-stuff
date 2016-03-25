@@ -1,4 +1,4 @@
-/* Elementary functions for drawing in text mode (console) under Windows*/
+/* Elementary functions for drawing in text mode (console) 	under Windows*/
 
 #include "drawfuncs.h"
 
