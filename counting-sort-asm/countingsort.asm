@@ -9,7 +9,7 @@ array db 5, 48, 3, 15, 4, 2, 2, 9, 10, 5
 
 start:
    mov cx, 10        ; load the number of items in array
-   lea bx, [array+9] ; go to the end of the array
+   lea bx, [array+9] ; go to the end of the
    
    loop1:        
     mov dl, [bx]     ; load current element from array
@@ -82,7 +82,5 @@ start:
    mov ax, 4C00h
    int 21h
 end start
-nt 21h
+int 21h
 end start
-
-revino_la_bucla_vector:
