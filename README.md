@@ -4,6 +4,7 @@ Various small and potentially interesting things I've written, mostly as part of
 ### x86 assembly
 * **asm-counting-sort**: Counting sort algorithm
 * **asm-bubble-sort**: Bubble sort algorithm
+* **asm-factorial**: Factorial and gaussian sum
 
 ### Hardware description
 * **digital-system-for-recursive-computation**: Verilog implementation of a digital syste*
