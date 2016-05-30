@@ -1,8 +1,11 @@
 # Various stuff
 Various small and potentially interesting things I've written, mostly as part of faculty homework, or otherwise unworthy of having a separate repository.
 
+### x86 assembly
+* **asm-counting-sort**: Counting sort algorithm
+* **asm-bubble-sort**: Bubble sort algorithm
+
 ### Hardware description
-* **counting-sort-asm**: Counting sort algorithm implemented in x86 assembly
 * **digital-system-for-recursive-computation**: Verilog implementation of a digital syste*
 * **single-cycled-mips-processor**: Verilog implementation of a MIPS processor supporting add, sub, sw, lw, beq instructions, with 1 cycle/instruction. Also contains a working code and data memory and a testbench for testing.m (data path + control path) capable of computing elements of the recursive sequence x<sub>n</sub> = 14*x<sub>n-1</sub>+n, with x<sub>0</sub>=0. Consists of several simple basic modules for sumation, comparison, etc, each with a minimal testbench module.
 
