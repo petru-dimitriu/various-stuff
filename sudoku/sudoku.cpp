@@ -90,7 +90,7 @@ void afiseaza()
 	{
 		for (j=0;j<9;j++)
 			out << t[i][j] << " ";
-		out << ""\n";
+		out << "\n";
 	}
 }
 
@@ -124,4 +124,3 @@ int main()
 	}
 	return 0;
 }
-
