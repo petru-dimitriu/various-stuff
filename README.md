@@ -1,5 +1,5 @@
 # Various stuff
-Various small and potentially interesting things I've written, mostly as part of faculty homework, or otherwise unworthy of having a separate repository.
+Various small, silly and potentially interesting things I've written, mostly as part of faculty homework, or otherwise unworthy of having a separate repository.
 
 ### x86 assembly
 * **asm-counting-sort**: Counting sort algorithm
@@ -18,3 +18,4 @@ Various small and potentially interesting things I've written, mostly as part of
 ### Miscellaneous
 * **text-draw-funcs**: Elementary functions for drawing in (console) under Windows; uses Bresenham's line algorithm
 * **sudoku**: Yet another take at implementing a sudoku solver in C++. Features comments with explanations in Romanian.
+* **hangman-awt**: Silly hangman game in Java / AWT
